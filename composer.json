@@ -1,0 +1,10 @@
+{
+    "name": "merek/api_rest-php",
+    "authors": [
+        {
+            "name": "Merek",
+            "email": "kmerek7@gmail.com"
+        }
+    ],
+    "require": {}
+}
